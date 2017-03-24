@@ -28,3 +28,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Nuterra - AssetBundle output folder
+/GeneratedAssetBundles
