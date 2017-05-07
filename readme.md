@@ -1,6 +1,6 @@
 # Setting up the project
 1. Download or clone the repository onto your computer.
-2. Open the project with Unity **5.4.0f3**.
+2. Open the project with Unity **5.5.1**.
 ![](http://image.prntscr.com/image/946e3916682d45e88b5eba23be8c1ec7.png)
 3. Click `Nuterra > Build AssetBundles` to verify the assetbundles can be succesfully build.
 ![](http://image.prntscr.com/image/80f7097092ac4c2aa5c1f7150aa4ddb8.png)
