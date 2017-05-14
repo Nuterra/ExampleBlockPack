@@ -57,3 +57,4 @@ copy /Y %PACK_NAME% "%TT_BLOCKS%\%PACK_NAME%"
 copy /Y %PACK_NAME%.manifest "%TT_BLOCKS%\%PACK_NAME%.manifest"
 pause
 ```
+[Alternate versions](https://github.com/Nuterra/ExampleBlockPack/issues/2)
